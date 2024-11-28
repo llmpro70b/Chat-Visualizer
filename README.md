@@ -60,7 +60,7 @@ Then you can run the agentboard and see the visualized chat history in a Chatbot
 agentboard --logdir=./log
 ```
 
-![Chat Visualizer Using Deepnlp Agentboard](https://github.com/llmpro70b/Chat-Visualizer/blob/main/agentboard_chat_visualizer?raw=true)
+![Chat Visualizer Using Deepnlp Agentboard](https://github.com/llmpro70b/Chat-Visualizer/blob/main/agentboard_chat_visualizer.jpg?raw=true)
 
 
 Alternatively, you can also use the online Chat Visualizer Tool for quick prototypes ([DeepNLP Chat Visualizer](http://www.deepnlp.org/workspace/dialogue_visualization))
